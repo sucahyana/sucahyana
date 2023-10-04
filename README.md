@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/sucahyana/sucahyana/master/resources/banner.png" alt="Hello world">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sucahyana/count.svg" />
