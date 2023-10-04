@@ -1,43 +1,51 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://your-profile-image-url.com" alt="Your Name" width="200" height="200">
+  <img src="https://github.com/sudulamcahyana/sudulamcahyana/blob/main/assets/assalamualaikum.gif" alt="Assalamualaikum!">
 </p>
 
-<!-- Greetings -->
+<h1 align="center">Salam, Saya Sud Ulam Cahyana 🌟</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LnR2zGkC9Uooxu1D6h/giphy.gif" width="100">
-  <br><br>
-  <samp>Assalamualaikum wr.wb! 👋</samp>
-  <br><br>
-  <samp>Saya adalah <strong>Sud Ulam Cahyana</strong>,</samp>
-  <br><samp>Seorang Web Developer dengan passion untuk:</samp>
+  <em>Seorang Web Developer yang Mahir di Front-End dan Back-End</em>
 </p>
 
-<!-- Skills -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
-  <br><br>
-  <samp>
-    - Front-end Development 🌟<br>
-    - Back-end Development 💻<br>
-    - Full Stack Wizardry 🚀<br>
-    - Membuat Website Menakjubkan 🌐<br>
-  </samp>
+  <a href="https://www.linkedin.com/in/sudulamcahyana/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://twitter.com/sudulamcahyana"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter"></a>
+  <a href="https://www.sudulamcahyana.com/"><img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=flat"></a>
 </p>
 
-<!-- Contact Information -->
-<p align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100">
-  <br><br>
-  <samp>Hubungi saya di:</samp>
-  <br><br>
-  <a href="https://www.linkedin.com/in/sud-ulam-cahyana/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/sudulamcahyana">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="30">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="30">
-  </a>
-</p>
+---
+
+### 🚀 Tentang Saya
+
+Saya adalah seorang pengembang web dengan pengalaman luas dalam pengembangan front-end dan back-end. Saya sangat antusias tentang teknologi web dan selalu berusaha untuk membuat web menjadi lebih indah dan lebih bermanfaat bagi pengguna.
+
+### ⚙️ Keahlian
+
+- **Front-End**: HTML, CSS, JavaScript, React, Vue.js
+- **Back-End**: Node.js, Express.js, Ruby on Rails
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Git, VS Code, Docker
+- **Desain**: Adobe XD, Figma
+
+### 🌐 Portofolio
+
+Anda dapat melihat beberapa proyek saya di [website saya](https://www.sudulamcahyana.com/). Beberapa proyek unggulan saya meliputi:
+
+- [Proyek A](https://www.sudulamcahyana.com/project-a): Deskripsi singkat tentang Proyek A.
+- [Proyek B](https://www.sudulamcahyana.com/project-b): Deskripsi singkat tentang Proyek B.
+
+### 📚 Blog
+
+Saya juga menulis artikel di [blog saya](https://www.sudulamcahyana.com/blog) tentang pengembangan web, teknologi terbaru, dan panduan praktis. Beberapa artikel terbaru saya:
+
+- [Mengoptimalkan Kinerja Situs Web Anda](https://www.sudulamcahyana.com/blog/optimizing-website-performance)
+- [Belajar React: Panduan Dasar](https://www.sudulamcahyana.com/blog/learning-react-basics)
+
+### 📫 Hubungi Saya
+
+Jika Anda ingin berbicara atau berkolaborasi, jangan ragu untuk menghubungi saya di [LinkedIn](https://www.linkedin.com/in/sudulamcahyana/) atau [Twitter](https://twitter.com/sudulamcahyana).
+
+### 🙏 Terima Kasih
+
+Terima kasih telah mengunjungi profil GitHub saya. Semoga Anda menemukan proyek-proyek dan artikel-artikel saya bermanfaat. Assalamualaikum wr.wb!
