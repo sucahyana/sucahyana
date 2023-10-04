@@ -1,62 +1,63 @@
-<h1 align="center">Assalamualaikum wr.wb, Saya Sud Ulam Cahyana 🌟</h1>
+<!-- Header -->
+<h1 align="center">
+  Assalamualaikum wr.wb! 👋 I'm Sud Ulam Cahyana
+</h1>
 
 <p align="center">
-  <img src="https://github.com/sucahyana/sucahyana/raw/main/assets/waving.gif" alt="Waving Hand" width="100"/>
+  🌟 Welcome to my GitHub profile! 🌟
 </p>
 
-<p align="center">Web Developer | Front-end Developer | Back-end Developer</p>
-
+<!-- Intro -->
 <p align="center">
-  <a href="https://github.com/sucahyana" target="_blank">
-    <img src="https://github.com/sucahyana/sucahyana/raw/main/assets/github.gif" alt="GitHub" width="50"/>
-  </a>
-  <a href="https://linkedin.com/in/sucahyana" target="_blank">
-    <img src="https://github.com/sucahyana/sucahyana/raw/main/assets/linkedin.gif" alt="LinkedIn" width="50"/>
-  </a>
-  <a href="https://twitter.com/sucahyana" target="_blank">
-    <img src="https://github.com/sucahyana/sucahyana/raw/main/assets/twitter.gif" alt="Twitter" width="50"/>
-  </a>
+  I'm a passionate web developer with expertise in front-end and back-end development.
+  <br>
+  Let's embark on a coding journey together! 💻
+</p>
+
+<!-- Tech Stack -->
+<p align="center">
+  💡 Here are some of the technologies I love to work with:
 </p>
 
 <p align="center">
-  <img src="https://github.com/sucahyana/sucahyana/raw/main/assets/developer.gif" alt="Developer" width="400"/>
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/html5.gif" alt="HTML5" width="50" height="50">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/css3.gif" alt="CSS3" width="50" height="50">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/js.gif" alt="JavaScript" width="50" height="50">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/react.gif" alt="React" width="50" height="50">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/nodejs.gif" alt="Node.js" width="50" height="50">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/mongodb.gif" alt="MongoDB" width="50" height="50">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/python.gif" alt="Python" width="50" height="50">
 </p>
 
----
-
-## 🚀 Tentang Saya
-
-Halo! Saya adalah seorang pengembang web dengan passion dalam front-end dan back-end development. Saya senang menciptakan aplikasi web yang menarik dan fungsional. Saya selalu berusaha untuk belajar hal baru dan menjaga diri saya selalu diperbarui dengan teknologi terbaru dalam dunia pengembangan web.
-
-## 💻 Stack Teknologi
-
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Node.js, Express, MongoDB
-- UI/UX Design: Figma, Adobe XD
-- Version Control: Git, GitHub
-
-## 🌟 Proyek Terbaru
-
-- [Project 1](https://github.com/sucahyana/project1): Deskripsi singkat tentang project 1 Anda.
-  <img src="https://github.com/sucahyana/project1/raw/main/demo.gif" alt="Project 1" width="200"/>
-- [Project 2](https://github.com/sucahyana/project2): Deskripsi singkat tentang project 2 Anda.
-  <img src="https://github.com/sucahyana/project2/raw/main/demo.gif" alt="Project 2" width="200"/>
-
-## ✨ Kontribusi
-
-Saya senang berkolaborasi dengan orang-orang di dunia open source. Jika Anda memiliki proyek yang menarik, jangan ragu untuk menghubungi saya. Saya akan dengan senang hati membantu.
-
-## 📫 Hubungi Saya
-
-Anda dapat menghubungi saya melalui [email](mailto:sudulam@example.com) atau melalui media sosial berikut:
-
-- [LinkedIn](https://linkedin.com/in/sucahyana)
-- [Twitter](https://twitter.com/sucahyana)
-
-Terima kasih telah mengunjungi profil GitHub saya. Semoga hari Anda menyenangkan! 😊
-
----
+<!-- Fun Animations -->
+<p align="center">
+  🚀 Let's make the web come alive with amazing animations:
+</p>
 
 <p align="center">
-  <img src="https://github.com/sucahyana/sucahyana/raw/main/assets/bye.gif" alt="Goodbye" width="200"/>
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/animation1.gif" alt="Animation 1">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/animation2.gif" alt="Animation 2">
+  <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/animation3.gif" alt="Animation 3">
+</p>
+
+<!-- Contact -->
+<p align="center">
+  📫 Let's connect and collaborate:
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/sud_ulam_cahyana" target="_blank">
+    <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/twitter.gif" alt="Twitter" width="50" height="50">
+  </a>
+  <a href="https://linkedin.com/in/sud-ulam-cahyana" target="_blank">
+    <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/linkedin.gif" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://sucahyana.com" target="_blank">
+    <img src="https://github.com/sucahyana/sucahyana/blob/main/assets/website.gif" alt="Website" width="50" height="50">
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  ✨ Thanks for visiting my GitHub profile! ✨
 </p>
